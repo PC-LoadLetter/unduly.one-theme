@@ -1,2 +1,2 @@
-# Unduly.one-Theme
-The website theme
+# unduly.one-theme
+The website theme forked from Pelican's notmyidea theme.
